@@ -1,0 +1,1 @@
+Simple app that uses the waifu.im API. Click on the image and the page will refresh with a new anime waifu. Link aka sauce will be provided above the image so users can see where the character is from whether that be from a show or an artist.
